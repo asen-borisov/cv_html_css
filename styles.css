@@ -1,0 +1,12 @@
+  body {style="background-color: #EAF6F6"}
+
+  img {
+  height: 250px;
+  border-radius: 100%;}
+
+  hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 2px;
+  width: 100%;
+  }
